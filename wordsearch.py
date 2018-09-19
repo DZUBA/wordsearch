@@ -12,7 +12,7 @@ parser.parse_args()
 
 
 def table_generation():
-    """returns table
+    """
     Create a table of random letters based on number of vertical and horizontal
     numbers from command line.
 
